@@ -1,9 +1,0 @@
-#include <string>
-#include <vector>
-
-class Solution {
-public:
-    int lengthOfLongestSubstring(string s) {
-      
-    }
-};
